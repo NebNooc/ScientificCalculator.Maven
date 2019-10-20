@@ -5,3 +5,8 @@ package com.zipcodewilmington.scientific_calculator;
  */
 public class TestMainApplication {
 }
+@Test
+plublic void Testsin(double a){
+    CalculatorFeatures a = new CalculatorFeatures();
+    assertEquals(8, a.Math.sin(4 + 4));
+        }
