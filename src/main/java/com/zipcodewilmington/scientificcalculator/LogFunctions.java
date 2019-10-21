@@ -16,4 +16,5 @@ public class LogFunctions {
     public Double inverseNatutalLog(double num1){
         return Math.pow(2.71828182846, num1);
     }
+
 }
